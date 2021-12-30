@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Product {
+public class Product {
+    public int id;
+    public int price;
+    public int phoneNumber;
 }
